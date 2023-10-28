@@ -95,7 +95,7 @@ html {
     .rotate {
         width: 100%;
         height: 100%;
-        opacity: 0; /* Начните с непрозрачности 0 */
+        opacity: 1; /* Начните с непрозрачности 0 */
         transform: rotate(0deg); /* Начните с нулевого поворота */
         transition: opacity 1s, transform 1s; /* Длительность анимации 1 секунда */
     }
